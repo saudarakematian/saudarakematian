@@ -14,7 +14,7 @@ struct Maxl {
   string name = "Maxl";
   string role = "IDK";
   vector<string> focus = {
-    "Android modding",
+    "Android Modding",
     "Magisk",
     "Custom ROM",
     "Kernel Tuning",
